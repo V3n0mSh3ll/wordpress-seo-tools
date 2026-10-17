@@ -1,0 +1,104 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "name": "GrowthNiq Multi-Signal Stack Fingerprinting Reference",
+  "version": "2.4.0",
+  "homepage": "https://growthniq.com/theme-detector/",
+  "reverseLookupIndex": "https://growthniq.com/theme-websites-finder/",
+  "aiToolsDirectory": "https://growthniq.com/ai-tools/",
+  "maintainer": {
+    "organization": "GrowthNiq Intelligence & Research",
+    "founder": "Muhammad Abid",
+    "url": "https://muhammadabid.com/"
+  },
+  "categories": {
+    "cms_platforms": [
+      {
+        "slug": "wordpress",
+        "name": "WordPress",
+        "headers": ["x-powered-by: WP Engine", "x-pingback", "link: <https://*/wp-json/>; rel=\"https://api.w.org/\""],
+        "dom_selectors": ["meta[name='generator'][content*='WordPress']", "link[href*='/wp-content/themes/']", "script[src*='/wp-includes/']"],
+        "endpoints": ["/wp-json/", "/wp-login.php", "/xmlrpc.php"]
+      },
+      {
+        "slug": "shopify",
+        "name": "Shopify",
+        "headers": ["x-shopid", "x-shardid", "powered-by: Shopify"],
+        "dom_selectors": ["script[src*='cdn.shopify.com']", "window.Shopify.theme"],
+        "endpoints": ["/cart.js", "/meta.json"]
+      },
+      {
+        "slug": "laravel",
+        "name": "Laravel",
+        "headers": ["set-cookie: laravel_session", "set-cookie: XSRF-TOKEN"],
+        "dom_selectors": ["meta[name='csrf-token']", "[wire\\:id]", "[data-page]"]
+      },
+      {
+        "slug": "drupal",
+        "name": "Drupal",
+        "headers": ["x-drupal-cache", "x-generator: Drupal"],
+        "dom_selectors": ["meta[name='Generator'][content*='Drupal']", "script[data-drupal-selector]"]
+      },
+      {
+        "slug": "webflow",
+        "name": "Webflow",
+        "headers": [],
+        "dom_selectors": ["html[data-wf-site]", "html[data-wf-page]", "script[src*='website-files.com']"]
+      }
+    ],
+    "frontend_frameworks": [
+      {
+        "slug": "nextjs",
+        "name": "Next.js",
+        "headers": ["x-nextjs-cache", "x-powered-by: Next.js"],
+        "dom_selectors": ["script#__NEXT_DATA__", "script[src*='/_next/static/']"]
+      },
+      {
+        "slug": "react",
+        "name": "React",
+        "dom_selectors": ["[data-reactroot]", "[data-reactid]", "script[src*='react-dom']"]
+      },
+      {
+        "slug": "vue",
+        "name": "Vue.js / Nuxt",
+        "dom_selectors": ["div#__nuxt", "script#__NUXT_DATA__", "[data-v-app]"]
+      },
+      {
+        "slug": "astro",
+        "name": "Astro",
+        "dom_selectors": ["astro-island", "astro-slot", "meta[name='generator'][content*='Astro']"]
+      },
+      {
+        "slug": "tailwindcss",
+        "name": "Tailwind CSS",
+        "dom_selectors": ["style[data-tailwind]", "link[href*='tailwind']"]
+      }
+    ],
+    "edge_cdn_and_hosting": [
+      {
+        "slug": "cloudflare",
+        "name": "Cloudflare Anycast CDN",
+        "headers": ["cf-ray", "cf-cache-status", "server: cloudflare"]
+      },
+      {
+        "slug": "litespeed",
+        "name": "LiteSpeed Web Server & LSCache",
+        "headers": ["server: LiteSpeed", "x-litespeed-cache", "x-litespeed-tag"]
+      },
+      {
+        "slug": "vercel",
+        "name": "Vercel Edge Network",
+        "headers": ["x-vercel-id", "x-vercel-cache", "server: Vercel"]
+      },
+      {
+        "slug": "fastly",
+        "name": "Fastly CDN",
+        "headers": ["x-served-by", "x-cache", "fastly-restarts"]
+      },
+      {
+        "slug": "aws-cloudfront",
+        "name": "AWS CloudFront",
+        "headers": ["x-amz-cf-id", "x-amz-cf-pop", "via: *CloudFront*"]
+      }
+    ]
+  }
+}
