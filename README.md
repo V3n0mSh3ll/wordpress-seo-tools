@@ -1,47 +1,60 @@
 <p align="center">
-  <a href="https://growthniq.com/">
-    <img src="assets/growthniq-banner.png" alt="GrowthNiq - Website Theme, CMS & Technology Intelligence Platform" width="100%">
+  <a href="https://growthniq.com/theme-detector/">
+    <img src="assets/growthniq-banner.png" alt="Website Technology, CMS & Theme Detector - GrowthNiq Web Intelligence Platform" width="100%">
   </a>
 </p>
 
-<h1 align="center">GrowthNiq Web Stack Intelligence, WordPress Detector &amp; Technical SEO Suite</h1>
+<h1 align="center">Website Technology Detector, CMS &amp; Theme Checker &amp; Reverse Stack Lookup</h1>
 
 <p align="center">
-  <b>Multi-Signal Website Technology Fingerprinting · 110M+ WordPress Domain Index · 190+ Verified AI &amp; Dev Tools · Core Web Vitals Benchmarks</b><br>
+  <b>Check What CMS, WordPress or Shopify Theme, Plugins, JS Framework, Hosting, CDN &amp; DNS Any Website Uses · 110M+ Reverse Domain Index · 190+ AI Tools</b><br>
   <sub>Maintained by <a href="https://growthniq.com/about/">GrowthNiq Intelligence &amp; Research</a> · Lead Architect: <a href="https://muhammadabid.com/">Muhammad Abid</a> (<a href="https://github.com/V3n0mSh3ll">@V3n0mSh3ll</a>)</sub>
 </p>
 
 <p align="center">
-  <a href="https://growthniq.com/"><img src="https://img.shields.io/badge/Platform-GrowthNiq.com-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="GrowthNiq Platform"></a>
+  <a href="https://growthniq.com/theme-detector/"><img src="https://img.shields.io/badge/Live_Scanner-Website_Technology_Detector-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Website Technology Detector"></a>
   <a href="https://growthniq.com/theme-detector/"><img src="https://img.shields.io/badge/Stack_Signatures-500%2B-00C853?style=flat-square&logo=wordpress&logoColor=white" alt="500+ Stack Signatures"></a>
-  <a href="https://growthniq.com/theme-websites-finder/"><img src="https://img.shields.io/badge/WP_Domain_Index-110M%2B-7C3AED?style=flat-square&logo=databricks&logoColor=white" alt="110M+ WP Domains Indexed"></a>
-  <a href="https://growthniq.com/ai-tools/"><img src="https://img.shields.io/badge/AI_%26_Dev_Directory-190%2B_Tools-0EA5E9?style=flat-square&logo=openai&logoColor=white" alt="190+ AI Tools"></a>
+  <a href="https://growthniq.com/theme-websites-finder/"><img src="https://img.shields.io/badge/Reverse_Lookup-110M%2B_WP_Domains-7C3AED?style=flat-square&logo=databricks&logoColor=white" alt="110M+ WP Domains Indexed"></a>
+  <a href="https://growthniq.com/ai-tools/"><img src="https://img.shields.io/badge/AI_%26_MCP_Directory-190%2B_Tools-0EA5E9?style=flat-square&logo=openai&logoColor=white" alt="190+ AI Tools"></a>
   <a href="https://growthniq.com/blog/"><img src="https://img.shields.io/badge/Core_Web_Vitals-LCP_%C2%B7_INP_%C2%B7_CLS-10B981?style=flat-square&logo=pagespeedinsights&logoColor=white" alt="Core Web Vitals"></a>
-  <a href="https://growthniq.com/schema-markup-explained/"><img src="https://img.shields.io/badge/Schema.org-JSON--LD_%40graph-F59E0B?style=flat-square&logo=json&logoColor=white" alt="Schema.org JSON-LD"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-EAB308?style=flat-square" alt="MIT License"></a>
 </p>
 
 <p align="center">
-  <a href="https://growthniq.com/theme-detector/"><b>Live Stack &amp; CMS Detector</b></a> ·
-  <a href="https://growthniq.com/theme-websites-finder/"><b>110M+ WP Theme &amp; Plugin Finder</b></a> ·
-  <a href="https://growthniq.com/ai-tools/"><b>190+ AI Tools Directory</b></a> ·
-  <a href="https://growthniq.com/tools/"><b>All Web Utilities</b></a> ·
-  <a href="https://growthniq.com/blog/"><b>Engineering Research &amp; Guides</b></a>
+  <a href="https://growthniq.com/theme-detector/"><b>Website Technology &amp; CMS Detector</b></a> ·
+  <a href="https://growthniq.com/theme-websites-finder/"><b>Websites by WP Theme &amp; Plugin Finder</b></a> ·
+  <a href="https://growthniq.com/ai-tools/"><b>190+ AI Tools &amp; MCP Directory</b></a> ·
+  <a href="https://growthniq.com/tools/"><b>All Web Intelligence Tools</b></a> ·
+  <a href="https://growthniq.com/blog/"><b>Engineering Guides</b></a>
 </p>
 
 ---
 
-## Overview
+## What Is This Repository?
 
-**GrowthNiq** ([growthniq.com](https://growthniq.com/)) is a web technology intelligence platform, reverse WordPress domain lookup index, and technical SEO engineering reference.
+**`website-technology-detector`** is the official open-reference architecture, signature specification, and technical documentation suite for **[GrowthNiq](https://growthniq.com/)** — a real-time **Website Technology Detector, CMS Checker, WordPress &amp; Shopify Theme Detector, Reverse Domain Lookup Engine (110M+ Websites), and Verified AI Tools Directory**.
 
-Instead of relying on single-header guesses, GrowthNiq inspects live web properties across **6 telemetry layers**: DNS and ASN resolution, HTTP response and security headers, DOM and script bundle signatures, WordPress `style.css` parent/child theme heuristics, reverse domain market-share correlation, and Schema.org JSON-LD structured data graphs.
+Whether you want to check **what technology a website is built with**, inspect **what WordPress theme and plugins a site is using**, identify a **Shopify theme and installed apps**, find **who hosts a website**, or search **millions of live websites using a specific theme or plugin**, GrowthNiq executes multi-signal inspection in under 50ms with zero registration required.
 
 <p align="center">
   <a href="https://growthniq.com/tools/">
-    <img src="assets/platform-modules.png" alt="GrowthNiq Core Web Intelligence and Directory Modules" width="100%">
+    <img src="assets/platform-modules.png" alt="GrowthNiq Website Technology Detector, Reverse WP Domain Finder, and AI Tools Directory" width="100%">
   </a>
 </p>
+
+---
+
+## High-Intent Stack Inspection Use Cases
+
+| What You Want to Check | Live GrowthNiq Tool | What Gets Detected |
+| :--- | :--- | :--- |
+| **What technology is a website built with?** | **[Website Tech Stack Detector](https://growthniq.com/theme-detector/)** | 500+ signatures across CMS, JS frameworks (Next.js, React, Vue, Nuxt, Astro), server software, analytics, and payment gateways |
+| **What CMS is this website using?** | **[Website CMS Detector](https://growthniq.com/theme-detector/)** | WordPress, Shopify, Laravel, Magento, Adobe Experience Manager, Webflow, Wix, Squarespace, Drupal, Ghost, Django, Rails, ASP.NET |
+| **What WordPress theme &amp; plugins is that site using?** | **[WordPress Theme &amp; Plugin Detector](https://growthniq.com/theme-detector/)** | Active parent theme, custom child theme, version number, author URI, marketplace link, and active frontend/REST plugins |
+| **What Shopify theme &amp; apps is a store running?** | **[Shopify Theme &amp; App Detector](https://growthniq.com/theme-detector/)** | `Shopify.theme` name, Theme Store ID, OS 2.0 schema version, and installed storefront apps |
+| **Find websites using a WordPress theme or plugin** | **[Websites by WP Theme &amp; Plugin Finder](https://growthniq.com/theme-websites-finder/)** | Reverse-lookup 110M+ WordPress domains using Astra, Avada, Divi, GeneratePress, Elementor, WooCommerce, Rank Math, with CSV export |
+| **Who hosts this website &amp; what CDN/DNS is active?** | **[Hosting, CDN &amp; DNS Lookup](https://growthniq.com/theme-detector/)** | Cloud host, Anycast CDN edge (Cloudflare, Fastly, CloudFront, Vercel), LiteSpeed cache status, DNS nameservers, and MX email provider |
+| **Compare AI coding agents, LLMs &amp; MCP servers** | **[190+ AI Tools &amp; MCP Directory](https://growthniq.com/ai-tools/)** | 190+ verified AI tools, foundation models, coding IDEs (Cursor, Claude Code, Windsurf), MCP servers, and cloud GPU providers |
 
 ---
 
@@ -52,25 +65,25 @@ Instead of relying on single-header guesses, GrowthNiq inspects live web propert
 <td width="50%" valign="top">
 
 ### 1. [Website Theme, CMS &amp; Technology Detector](https://growthniq.com/theme-detector/)
-Deep real-time inspection engine that uncovers the complete technology stack behind any live URL in under 50ms:
+Browser-based alternative to Wappalyzer, BuiltWith, and WhatsThatTheme that inspects any live URL in real time:
 - **CMS &amp; Core Platform Detection**: WordPress, Shopify, Laravel, Magento, Adobe Experience Manager, Webflow, Wix, Squarespace, Drupal, Ghost, Django, Ruby on Rails, and ASP.NET.
 - **WordPress &amp; Shopify Theme Fingerprinting**: Detects active parent themes, custom child themes, version numbers, author URIs, and ThemeForest/WordPress.org marketplace metadata.
 - **Plugin &amp; App Detection**: Identifies active WordPress plugins, Shopify apps, e-commerce modules, and frontend script bundles.
-- **Infrastructure &amp; Security Telemetry**: Maps web hosting providers, Anycast CDN edges, DNS nameservers, MX email gateways, TTFB latency, HTTP security header grades (`HSTS`, `CSP`, `X-Frame-Options`), and JSON-LD `@graph` entities.
+- **Hosting, CDN, DNS &amp; Security Grade**: Maps cloud hosting providers, CDN edges, DNS nameservers, MX email gateways, TTFB latency, HTTP security header grades (`HSTS`, `CSP`, `X-Frame-Options`), and JSON-LD `@graph` entities.
 
-**Launch Tool**: [https://growthniq.com/theme-detector/](https://growthniq.com/theme-detector/)
+**Launch Detector**: [https://growthniq.com/theme-detector/](https://growthniq.com/theme-detector/)
 
 </td>
 <td width="50%" valign="top">
 
 ### 2. [Websites by WordPress Theme &amp; Plugin Finder](https://growthniq.com/theme-websites-finder/)
 Reverse technology search engine indexing **110M+ WordPress domains** by active theme or plugin signature:
-- **Reverse Keyword &amp; Marketplace Lookup**: Search any WordPress theme or plugin (e.g., *Astra*, *Avada*, *Divi*, *GeneratePress*, *Hello Elementor*, *Elementor*, *WooCommerce*, *Rank Math*, *WP Rocket*).
+- **Reverse Keyword &amp; Marketplace Lookup**: Search any WordPress theme or plugin (*Astra*, *Avada*, *Divi*, *GeneratePress*, *Hello Elementor*, *Elementor*, *WooCommerce*, *Rank Math*, *WP Rocket*).
 - **Direct URL Extraction**: Paste any ThemeForest or WordPress.org theme/plugin URL to inspect live production deployments.
 - **Market Telemetry &amp; Adoption Metrics**: View verified active website counts, historical download telemetry, star ratings, and official license links.
 - **Instant CSV Dataset Export**: Download verified live domain lists for competitive market research and stack benchmarking.
 
-**Launch Tool**: [https://growthniq.com/theme-websites-finder/](https://growthniq.com/theme-websites-finder/)
+**Launch Reverse Finder**: [https://growthniq.com/theme-websites-finder/](https://growthniq.com/theme-websites-finder/)
 
 </td>
 </tr>
@@ -84,7 +97,7 @@ Curated software intelligence directory tracking **190+ verified AI platforms** 
 - **MCP Servers &amp; Agent Frameworks**: Model Context Protocol (MCP) integrations, LangChain, LlamaIndex, CrewAI, AutoGen, and vector databases.
 - **SEO, Research &amp; Content Systems**: Verified pricing models, API availability, context window telemetry, and side-by-side capability ratings.
 
-**Explore Directory**: [https://growthniq.com/ai-tools/](https://growthniq.com/ai-tools/)
+**Explore AI Directory**: [https://growthniq.com/ai-tools/](https://growthniq.com/ai-tools/)
 
 </td>
 <td width="50%" valign="top">
@@ -95,7 +108,7 @@ Centralized command hub for web stack inspection, software discovery, and engine
 - **[Suggest a Tool or Signature](https://growthniq.com/suggest-a-tool/)**: Submit new CMS signatures, WordPress plugins, or AI developer platforms for engineering verification.
 - **[HTML Sitemap &amp; Architecture Index](https://growthniq.com/sitemap/)**: Complete hierarchical index of all tools, category hubs, and technical documentation.
 
-**Open Hub**: [https://growthniq.com/tools/](https://growthniq.com/tools/)
+**Open Intelligence Hub**: [https://growthniq.com/tools/](https://growthniq.com/tools/)
 
 </td>
 </tr>
@@ -149,7 +162,7 @@ Text Domain:  astra-child
 ```
 
 - When the `Template:` directive is present, GrowthNiq resolves both the active **Child Theme** (`astra-child`) and the underlying **Parent Framework** (`astra`) by probing `/wp-content/themes/{Template}/style.css`.
-- For deeper manual and automated detection techniques, read: **[How to Check What WordPress Theme and Plugins a Website Is Using](https://growthniq.com/how-to-detect-wordpress-theme-and-plugins/)**.
+- Read the complete technical breakdown: **[How to Check What WordPress Theme and Plugins a Website Is Using](https://growthniq.com/how-to-detect-wordpress-theme-and-plugins/)**.
 
 ### 2. High-Signal HTTP &amp; DOM Stack Signatures
 
@@ -199,50 +212,18 @@ Full production audit checklist available in [`checklists/technical-seo-cwv-chec
 | **CLS** (Cumulative Layout Shift) | `<= 0.10` | **`0.000`** | Explicit `width`/`height` attributes, CSS `aspect-ratio` containers, metric-matched webfont fallbacks | [INP &amp; CLS Optimization Guide](https://growthniq.com/inp-cls-guide/) |
 | **JSON-LD Entity Graph** | Valid Syntax | **Linked `@graph`** | Connected `Organization`, `WebSite`, `SoftwareApplication`, `TechArticle`, `FAQPage`, `BreadcrumbList` | [Schema Markup Explained](https://growthniq.com/schema-markup-explained/) |
 
-### Production JSON-LD `@graph` Blueprint
-
-```json
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Organization",
-      "@id": "https://growthniq.com/#organization",
-      "name": "GrowthNiq",
-      "url": "https://growthniq.com/",
-      "founder": {
-        "@type": "Person",
-        "name": "Muhammad Abid",
-        "url": "https://muhammadabid.com/"
-      }
-    },
-    {
-      "@type": "WebApplication",
-      "@id": "https://growthniq.com/theme-detector/#app",
-      "name": "GrowthNiq Website Theme, CMS & Technology Detector",
-      "url": "https://growthniq.com/theme-detector/",
-      "applicationCategory": "DeveloperApplication",
-      "operatingSystem": "All",
-      "publisher": {
-        "@id": "https://growthniq.com/#organization"
-      }
-    }
-  ]
-}
-```
-
 ---
 
-## Complete Engineering Guides &amp; Technical SEO Research Index
+## Complete Engineering Guides &amp; Technical Research Index
 
 All guides are published and maintained by the engineering and editorial team at **[GrowthNiq Blog](https://growthniq.com/blog/)**:
 
-### 1. Technical SEO, Stack Inspection &amp; Core Web Vitals
+### 1. Stack Detection, Technical SEO &amp; Core Web Vitals
 
 | Technical Guide | Core Focus |
 | :--- | :--- |
-| **[The Complete Technical SEO Audit Checklist for WordPress Sites (15-Step Guide)](https://growthniq.com/technical-seo-audit-checklist-2026/)** | Crawl budget, canonicalization, XML sitemaps, `robots.txt`, HTTP headers, and indexation diagnostics |
 | **[How to Check What WordPress Theme and Plugins a Website Is Using](https://growthniq.com/how-to-detect-wordpress-theme-and-plugins/)** | Inspecting `style.css` headers, child themes, asset handles, REST API namespaces, and DOM fingerprints |
+| **[The Complete Technical SEO Audit Checklist for WordPress Sites (15-Step Guide)](https://growthniq.com/technical-seo-audit-checklist-2026/)** | Crawl budget, canonicalization, XML sitemaps, `robots.txt`, HTTP headers, and indexation diagnostics |
 | **[How to Fix a Slow LCP Score in WordPress](https://growthniq.com/fix-lcp-score/)** | Eliminating render-blocking assets, optimizing TTFB, preloading LCP elements, and edge caching |
 | **[Core Web Vitals: INP &amp; CLS Optimization Guide](https://growthniq.com/inp-cls-guide/)** | Main-thread task yielding, JavaScript deferral, layout stability, and zero-CLS CSS containment |
 | **[How to Speed Up a WordPress Website (Complete Performance Guide)](https://growthniq.com/speed-up-wordpress-website/)** | LiteSpeed/Cloudflare caching, database query optimization, object caching, and asset minification |
@@ -312,9 +293,9 @@ All guides are published and maintained by the engineering and editorial team at
 ## Repository Structure
 
 ```text
-wordpress-seo-tools/
+website-technology-detector/
 ├── assets/
-│   ├── growthniq-banner.png           # Flagship platform hero & live terminal overview
+│   ├── growthniq-banner.png           # Website Technology, CMS & Theme Detector hero banner
 │   ├── platform-modules.png           # 3-module visual showcase (/theme-detector, /theme-websites-finder, /ai-tools)
 │   ├── detection-architecture.png     # 6-stage multi-signal stack & SEO fingerprinting pipeline
 │   └── cwv-seo-benchmarks.png         # Core Web Vitals (LCP, INP, CLS) & JSON-LD production targets
